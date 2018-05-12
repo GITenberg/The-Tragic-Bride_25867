@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31627
     wikipedia: http://en.wikipedia.org/wiki/Francis_Brett_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25867#The-Tragic-Bride
 gutenberg_issued: '2008-06-21'
 gutenberg_type: Text
 identifiers:
